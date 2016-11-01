@@ -13,6 +13,7 @@ var tests = [
   require('./view/admin_multi_match.js'),
   require('./view/boundary_circle.js'),
   require('./view/boundary_country.js'),
+  require('./view/boundary_city.js'),
   require('./view/boundary_rect.js'),
   require('./view/focus.js'),
   require('./view/focus_only_function.js'),

@@ -26,6 +26,7 @@ module.exports.view = {
   boundary_circle: require('./view/boundary_circle'),
   boundary_rect: require('./view/boundary_rect'),
   boundary_country: require('./view/boundary_country'),
+  boundary_city: require('./view/boundary_city'),
   sort_distance: require('./view/sort_distance'),
   sort_numeric_script: require('./view/sort_numeric_script'),
   sources: require('./view/sources'),

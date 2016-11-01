@@ -52,6 +52,15 @@
   "admin:country:field": "parent.country",
   "admin:country:boost": 1,
 
+
+  "admin:city_a:analyzer": "standard",
+  "admin:city_a:field": "parent.city_a",
+  "admin:city_a:boost": 1,
+
+  "admin:city:analyzer": "peliasAdmin",
+  "admin:city:field": "parent.city",
+  "admin:city:boost": 1,
+
   "admin:region:analyzer": "peliasAdmin",
   "admin:region:field": "paretn.region",
   "admin:region:boost": 1,
